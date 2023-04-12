@@ -5,7 +5,11 @@ seja bem vindo
 Desenvolvedor Front-End, FullStack Loading...
 ---------------------------------------------
 
-Desde os anos 2000 sempre tive muita curiosidade como eram feito os jogos, sistemas, sites, as funções das coisas, e até hoje me desperta muita curiosidade. 22 anos depois, exatamente em 2022 decido de vez entrar no mundo da programação, então entrei para faculdade de Analise e Desenvolvimento de Sistemas, assinei o curso da Alura, e venha fazendo alguns projetos pessoais para estudos e praticar. Atualmente focado em desenvolvinmento WEB, mas lá para frente prendendo aprender também sobre mobile,software, talvez games, quem sabe ^^, mais sigo focado na WEB, a algumas tecnologias que também tenho interesse em conhecer, como,  React, Next, Vite, Nuxt, TypeScript Banco de Dados, PHP, WordPress, não sei direito se WP é uma tecnologia mas tenho interesse ^-^
+Desde os anos 2000 sempre tive muita curiosidade como eram feito os jogos, sistemas, sites, as funções das coisas, e até hoje me desperta muita curiosidade.
+
+22 anos depois, exatamente em 2022 decido de vez entrar no mundo da programação, então entrei para faculdade de Analise e Desenvolvimento de Sistemas, assinei o curso da Alura, e venha fazendo alguns projetos pessoais para estudos e praticar.
+
+Atualmente focado em desenvolvinmento WEB, mas lá para frente prendendo aprender também sobre mobile,software, talvez games, quem sabe ^^, mais sigo focado na WEB, a algumas tecnologias que também tenho interesse em conhecer, como,  React, Next, Vite, Nuxt, TypeScript Banco de Dados, PHP, WordPress, não sei direito se WP é uma tecnologia mas tenho interesse ^-^
 
 * 🌍  Sou de Lauro de Freitas - Bahia - Brasil
 * ✉️  Meu e-mail [cleiton\_601@hotmail.com](mailto:cleiton_601@hotmail.com)
