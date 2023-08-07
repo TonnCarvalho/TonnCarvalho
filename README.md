@@ -13,7 +13,7 @@ Atualmente focado em desenvolvinmento WEB, mas lá para frente prendendo aprende
 
 * 🌍  Sou de Lauro de Freitas - Bahia - Brasil
 * ✉️  Meu e-mail [cleiton\_601@hotmail.com](mailto:cleiton_601@hotmail.com)
-* 🧠  Atualmente estudando JavaScript, VueJS e TailWindCSS
+* 🧠  Atualmente estudando JavaScript, Robot Framework e Selenium
 
 ### Skills
 
