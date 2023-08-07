@@ -2,14 +2,13 @@ Oi 👋 Meu nome é Cleiton Carvalho,
 seja bem vindo
 =================================
 
-Desenvolvedor Front-End, FullStack Loading...
+Desenvolvedor Front-End e Analista de Teste
 ---------------------------------------------
 
 Desde os anos 2000 sempre tive muita curiosidade como eram feito os jogos, sistemas, sites, as funções das coisas, e até hoje me desperta muita curiosidade.
 
 22 anos depois, exatamente em 2022 decido de vez entrar no mundo da programação, então entrei para faculdade de Analise e Desenvolvimento de Sistemas, assinei o curso da Alura, e venha fazendo alguns projetos pessoais para estudos e praticar.
 
-Atualmente focado em desenvolvinmento WEB, mas lá para frente prendendo aprender também sobre mobile,software, talvez games, quem sabe ^^, mais sigo focado na WEB, a algumas tecnologias que também tenho interesse em conhecer, como,  React, Next, Vite, Nuxt, TypeScript Banco de Dados, PHP, WordPress, não sei direito se WP é uma tecnologia mas tenho interesse ^-^
 
 * 🌍  Sou de Lauro de Freitas - Bahia - Brasil
 * ✉️  Meu e-mail [cleiton\_601@hotmail.com](mailto:cleiton_601@hotmail.com)
@@ -24,6 +23,7 @@ Atualmente focado em desenvolvinmento WEB, mas lá para frente prendendo aprende
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 </p>
 
 
