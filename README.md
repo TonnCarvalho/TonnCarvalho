@@ -1,42 +1,86 @@
-Oi 👋 Meu nome é Cleiton Carvalho,
-seja bem vindo
-=================================
+<h2 align="left">Oi sou Cleiton Carvalho, Desenvolvedor FullStack PHP</h2>
 
-Desenvolvedor Front-End e Analista de Teste
----------------------------------------------
+###
 
-Desde os anos 2000 sempre tive muita curiosidade como eram feito os jogos, sistemas, sites, as funções das coisas, e até hoje me desperta muita curiosidade.
+<p align="left">Comecei aprendendo HTML e CSS, mexendo com blogspot lá em 2014 porem dei uma pausa de 10 anos e voltei em 2023 a criando landpages mas sempre soube que queria desenvolver sistemas.<br>Aprendi PHP dentro do metrô e do ônibus na ida para o trabalho e na volta para casa, a noite eu praticava o que havia aprendido e hoje já consigo criar sistemas.<br>Passei a estudar PHP, MVC, SQL, JavaScript e hoje estou me mergulhando no ecossistema do Laravel, mas sempre revisando a base do PHP e JavaScript.</p>
 
-22 anos depois, exatamente em 2022 decido de vez entrar no mundo da programação, então entrei para faculdade de Analise e Desenvolvimento de Sistemas, assinei o curso da Alura, e venha fazendo alguns projetos pessoais para estudos e praticar.
+###
 
+<br clear="both">
 
-* 🌍  Sou de Lauro de Freitas - Bahia - Brasil
-* ✉️  Meu e-mail [cleiton\_601@hotmail.com](mailto:cleiton_601@hotmail.com)
-* 🧠  Atualmente estudando JavaScript, Robot Framework e Selenium
+<h3 align="left">Tecnologias utilizados em trabalhos.</h3>
 
-### Skills
+###
 
+<div align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="35" alt="php logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="35" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="35" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="35" alt="css3 logo"  />
+</div>
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-</p>
+###
 
+<h3 align="left">Estudo 📚 as tecnologias 👩🏻‍💻</h3>
 
-### Socials
+###
 
-<p align="left"> <a href="https://www.github.com/TonnCarvalho" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/cleitoncarvalho19/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<div align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="35" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="35" alt="php logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="35" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  />
+</div>
 
-### Badges
+###
 
-<b>My GitHub Stats</b>
+<h3 align="left">Database</h3>
 
-<a href="http://www.github.com/TonnCarvalho"><img src="https://github-readme-stats.vercel.app/api?username=TonnCarvalho&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=0891b2&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="TonnCarvalho's GitHub stats" /></a>
+###
 
-<a href="http://www.github.com/TonnCarvalho"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=TonnCarvalho&bg_color=1c1917&color=0891b2&line=ffffff&point=0891b2&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<div align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="35" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="35" alt="postgresql logo"  />
+</div>
 
-<a href="https://github.com/TonnCarvalho" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonnCarvalho&langs_count=10&title_color=ffffff&text_color=0891b2&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+###
+
+<h3 align="left">Minhas Estastísticas</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tonncarvalho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonncarvalho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left">Meus contatos</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/cleiton-c-carvalho/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="cleiton_601@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://wa.me/5571982810545" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
